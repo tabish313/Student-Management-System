@@ -1,0 +1,170 @@
+C:\Users\Tabish\source\repos\Student Management System\Student Management System\obj\Debug\Student_Management_System.AddStudent.resources
+C:\Users\Tabish\source\repos\Student Management System\Student Management System\obj\Debug\Student_Management_System.EditForm.resources
+C:\Users\Tabish\source\repos\Student Management System\Student Management System\obj\Debug\Student_Management_System.FeeVoucher.resources
+C:\Users\Tabish\source\repos\Student Management System\Student Management System\obj\Debug\Student_Management_System.FormLogin.resources
+C:\Users\Tabish\source\repos\Student Management System\Student Management System\obj\Debug\Student_Management_System.FormMain.resources
+C:\Users\Tabish\source\repos\Student Management System\Student Management System\obj\Debug\Student_Management_System.Loading.resources
+C:\Users\Tabish\source\repos\Student Management System\Student Management System\obj\Debug\Student_Management_System.DeleteStudent.resources
+C:\Users\Tabish\source\repos\Student Management System\Student Management System\obj\Debug\Student_Management_System.ModifyStudent.resources
+C:\Users\Tabish\source\repos\Student Management System\Student Management System\obj\Debug\Student_Management_System.Properties.Resources.resources
+C:\Users\Tabish\source\repos\Student Management System\Student Management System\obj\Debug\Student_Management_System.SearchStudent.resources
+C:\Users\Tabish\source\repos\Student Management System\Student Management System\obj\Debug\Student_Management_System.Splash.resources
+C:\Users\Tabish\source\repos\Student Management System\Student Management System\obj\Debug\Student_Management_System.csproj.GenerateResource.cache
+C:\Users\Tabish\source\repos\Student Management System\Student Management System\obj\Debug\Student_Management_System.csproj.CoreCompileInputs.cache
+C:\Users\Tabish\source\repos\Student Management System\Student Management System\obj\Debug\Student Management System.exe
+C:\Users\Tabish\source\repos\Student Management System\Student Management System\obj\Debug\Student Management System.pdb
+C:\Users\Tabish\source\repos\Student Management System\Student Management System\bin\Debug\Student Management System.exe.config
+C:\Users\Tabish\source\repos\Student Management System\Student Management System\bin\Debug\Student Management System.exe
+C:\Users\Tabish\source\repos\Student Management System\Student Management System\bin\Debug\Student Management System.pdb
+C:\Users\Tabish\source\repos\Student Management System\Student Management System\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Tabish\source\repos\Student Management System\Student Management System\bin\Debug\EntityFramework.dll
+C:\Users\Tabish\source\repos\Student Management System\Student Management System\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Tabish\source\repos\Student Management System\Student Management System\bin\Debug\Syncfusion.Compression.Base.dll
+C:\Users\Tabish\source\repos\Student Management System\Student Management System\bin\Debug\Syncfusion.Core.WinForms.dll
+C:\Users\Tabish\source\repos\Student Management System\Student Management System\bin\Debug\Syncfusion.Data.WinForms.dll
+C:\Users\Tabish\source\repos\Student Management System\Student Management System\bin\Debug\Syncfusion.DocIO.Base.dll
+C:\Users\Tabish\source\repos\Student Management System\Student Management System\bin\Debug\Syncfusion.DocIO.Windows.dll
+C:\Users\Tabish\source\repos\Student Management System\Student Management System\bin\Debug\Syncfusion.Grid.Base.dll
+C:\Users\Tabish\source\repos\Student Management System\Student Management System\bin\Debug\Syncfusion.Grid.Windows.dll
+C:\Users\Tabish\source\repos\Student Management System\Student Management System\bin\Debug\Syncfusion.GridCommon.WinForms.dll
+C:\Users\Tabish\source\repos\Student Management System\Student Management System\bin\Debug\Syncfusion.Pdf.Base.dll
+C:\Users\Tabish\source\repos\Student Management System\Student Management System\bin\Debug\Syncfusion.SfDataGrid.WinForms.dll
+C:\Users\Tabish\source\repos\Student Management System\Student Management System\bin\Debug\Syncfusion.SfDataGridConverter.WinForms.dll
+C:\Users\Tabish\source\repos\Student Management System\Student Management System\bin\Debug\Syncfusion.SfInput.WinForms.dll
+C:\Users\Tabish\source\repos\Student Management System\Student Management System\bin\Debug\Syncfusion.SfListView.WinForms.dll
+C:\Users\Tabish\source\repos\Student Management System\Student Management System\bin\Debug\Syncfusion.Shared.Base.dll
+C:\Users\Tabish\source\repos\Student Management System\Student Management System\bin\Debug\Syncfusion.Shared.Windows.dll
+C:\Users\Tabish\source\repos\Student Management System\Student Management System\bin\Debug\Syncfusion.Tools.Base.dll
+C:\Users\Tabish\source\repos\Student Management System\Student Management System\bin\Debug\Syncfusion.Tools.Windows.dll
+C:\Users\Tabish\source\repos\Student Management System\Student Management System\bin\Debug\System.Data.SQLite.dll
+C:\Users\Tabish\source\repos\Student Management System\Student Management System\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Tabish\source\repos\Student Management System\Student Management System\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Tabish\source\repos\Student Management System\Student Management System\bin\Debug\Syncfusion.OfficeChart.Base.dll
+C:\Users\Tabish\source\repos\Student Management System\Student Management System\bin\Debug\Syncfusion.XlsIO.Base.dll
+C:\Users\Tabish\source\repos\Student Management System\Student Management System\bin\Debug\Syncfusion.DataSource.WinForms.dll
+C:\Users\Tabish\source\repos\Student Management System\Student Management System\bin\Debug\Syncfusion.SpellChecker.Base.dll
+C:\Users\Tabish\source\repos\Student Management System\Student Management System\bin\Debug\EnvDTE.dll
+C:\Users\Tabish\source\repos\Student Management System\Student Management System\bin\Debug\Syncfusion.Compression.Base.xml
+C:\Users\Tabish\source\repos\Student Management System\Student Management System\bin\Debug\Syncfusion.Core.WinForms.xml
+C:\Users\Tabish\source\repos\Student Management System\Student Management System\bin\Debug\Syncfusion.Data.WinForms.xml
+C:\Users\Tabish\source\repos\Student Management System\Student Management System\bin\Debug\Syncfusion.DocIO.Base.xml
+C:\Users\Tabish\source\repos\Student Management System\Student Management System\bin\Debug\Syncfusion.DocIO.Windows.xml
+C:\Users\Tabish\source\repos\Student Management System\Student Management System\bin\Debug\Syncfusion.Grid.Base.xml
+C:\Users\Tabish\source\repos\Student Management System\Student Management System\bin\Debug\Syncfusion.Grid.Windows.xml
+C:\Users\Tabish\source\repos\Student Management System\Student Management System\bin\Debug\Syncfusion.GridCommon.WinForms.xml
+C:\Users\Tabish\source\repos\Student Management System\Student Management System\bin\Debug\Syncfusion.Pdf.Base.xml
+C:\Users\Tabish\source\repos\Student Management System\Student Management System\bin\Debug\Syncfusion.SfDataGrid.WinForms.xml
+C:\Users\Tabish\source\repos\Student Management System\Student Management System\bin\Debug\Syncfusion.SfDataGridConverter.WinForms.xml
+C:\Users\Tabish\source\repos\Student Management System\Student Management System\bin\Debug\Syncfusion.SfInput.WinForms.xml
+C:\Users\Tabish\source\repos\Student Management System\Student Management System\bin\Debug\Syncfusion.SfListView.WinForms.xml
+C:\Users\Tabish\source\repos\Student Management System\Student Management System\bin\Debug\Syncfusion.Shared.Base.xml
+C:\Users\Tabish\source\repos\Student Management System\Student Management System\bin\Debug\Syncfusion.Shared.Windows.xml
+C:\Users\Tabish\source\repos\Student Management System\Student Management System\bin\Debug\Syncfusion.Tools.Base.xml
+C:\Users\Tabish\source\repos\Student Management System\Student Management System\bin\Debug\Syncfusion.Tools.Windows.xml
+C:\Users\Tabish\source\repos\Student Management System\Student Management System\bin\Debug\Syncfusion.OfficeChart.Base.xml
+C:\Users\Tabish\source\repos\Student Management System\Student Management System\bin\Debug\Syncfusion.XlsIO.Base.xml
+C:\Users\Tabish\source\repos\Student Management System\Student Management System\bin\Debug\Syncfusion.DataSource.WinForms.xml
+C:\Users\Tabish\source\repos\Student Management System\Student Management System\bin\Debug\Syncfusion.SpellChecker.Base.xml
+C:\Users\Tabish\source\repos\Student Management System\Student Management System\bin\Debug\Syncfusion.Grid.Windows.XmlSerializers.dll
+C:\Users\Tabish\source\repos\Student Management System\Student Management System\obj\Debug\Student_Management_System.csproj.CopyComplete
+C:\Users\Tabish\source\repos\Student Management System\Student Management System\obj\Debug\Student_Management_System.FeeSubmission.resources
+C:\Users\Tabish\source\repos\Student Management System\Student Management System\obj\Debug\Student_Management_System.FeeDefaulters.resources
+C:\Users\Tabish\source\repos\Student Management System\Student Management System\obj\Debug\Student_Management_System.StaffSubmission.resources
+C:\Users\Tabish\source\repos\Student Management System\Student Management System\obj\Debug\Student_Management_System.StudentSubmission.resources
+C:\Users\Tabish\source\repos\Student Management System\Student Management System\obj\Debug\Student_Management_System.FeeSetting.resources
+C:\Users\Tabish\source\repos\Student Management System\Student Management System\bin\Debug\Leadtools.Codecs.Bmp.dll
+C:\Users\Tabish\source\repos\Student Management System\Student Management System\bin\Debug\Leadtools.Codecs.Cmp.dll
+C:\Users\Tabish\source\repos\Student Management System\Student Management System\bin\Debug\Leadtools.Codecs.Cmw.dll
+C:\Users\Tabish\source\repos\Student Management System\Student Management System\bin\Debug\Leadtools.Codecs.Fax.dll
+C:\Users\Tabish\source\repos\Student Management System\Student Management System\bin\Debug\Leadtools.Codecs.Gif.dll
+C:\Users\Tabish\source\repos\Student Management System\Student Management System\bin\Debug\Leadtools.Codecs.J2k.dll
+C:\Users\Tabish\source\repos\Student Management System\Student Management System\bin\Debug\Leadtools.Codecs.Jb2.dll
+C:\Users\Tabish\source\repos\Student Management System\Student Management System\bin\Debug\Leadtools.Codecs.Jbg.dll
+C:\Users\Tabish\source\repos\Student Management System\Student Management System\bin\Debug\Leadtools.Codecs.Png.dll
+C:\Users\Tabish\source\repos\Student Management System\Student Management System\bin\Debug\Leadtools.Codecs.Raw.dll
+C:\Users\Tabish\source\repos\Student Management System\Student Management System\bin\Debug\Leadtools.Codecs.Tif.dll
+C:\Users\Tabish\source\repos\Student Management System\Student Management System\bin\Debug\Leadtools.Async.dll
+C:\Users\Tabish\source\repos\Student Management System\Student Management System\bin\Debug\Leadtools.Codecs.dll
+C:\Users\Tabish\source\repos\Student Management System\Student Management System\bin\Debug\Leadtools.ColorConversion.dll
+C:\Users\Tabish\source\repos\Student Management System\Student Management System\bin\Debug\Leadtools.dll
+C:\Users\Tabish\source\repos\Student Management System\Student Management System\bin\Debug\Leadtools.Drawing.dll
+C:\Users\Tabish\source\repos\Student Management System\Student Management System\bin\Debug\Leadtools.Drawing.MP.dll
+C:\Users\Tabish\source\repos\Student Management System\Student Management System\bin\Debug\Leadtools.ImageProcessing.Color.dll
+C:\Users\Tabish\source\repos\Student Management System\Student Management System\bin\Debug\Leadtools.ImageProcessing.Core.dll
+C:\Users\Tabish\source\repos\Student Management System\Student Management System\bin\Debug\Leadtools.ImageProcessing.Effects.dll
+C:\Users\Tabish\source\repos\Student Management System\Student Management System\bin\Debug\Leadtools.ImageProcessing.Kernel.dll
+C:\Users\Tabish\source\repos\Student Management System\Student Management System\bin\Debug\Leadtools.ImageProcessing.SpecialEffects.dll
+C:\Users\Tabish\source\repos\Student Management System\Student Management System\bin\Debug\Leadtools.ImageProcessing.Utilities.dll
+C:\Users\Tabish\source\repos\Student Management System\Student Management System\bin\Debug\Leadtools.Svg.dll
+C:\Users\Tabish\source\repos\Student Management System\Student Management System\bin\Debug\Leadtools.Vector.dll
+C:\Users\Tabish\source\repos\Student Management System\Student Management System\bin\Debug\Leadtools.xml
+C:\Users\Tabish\source\repos\Student Management System\Student Management System\bin\Debug\Leadtools.Codecs.xml
+C:\Users\Tabish\source\repos\Student Management System\Student Management System\bin\Debug\Leadtools.ColorConversion.xml
+C:\Users\Tabish\source\repos\Student Management System\Student Management System\bin\Debug\Leadtools.Drawing.xml
+C:\Users\Tabish\source\repos\Student Management System\Student Management System\bin\Debug\Leadtools.ImageProcessing.Color.xml
+C:\Users\Tabish\source\repos\Student Management System\Student Management System\bin\Debug\Leadtools.ImageProcessing.Core.xml
+C:\Users\Tabish\source\repos\Student Management System\Student Management System\bin\Debug\Leadtools.ImageProcessing.Effects.xml
+C:\Users\Tabish\source\repos\Student Management System\Student Management System\bin\Debug\Leadtools.ImageProcessing.Kernel.xml
+C:\Users\Tabish\source\repos\Student Management System\Student Management System\bin\Debug\Leadtools.ImageProcessing.SpecialEffects.xml
+C:\Users\Tabish\source\repos\Student Management System\Student Management System\bin\Debug\Leadtools.Svg.xml
+C:\Users\Tabish\source\repos\Student Management System\Student Management System\bin\Debug\Syncfusion.Edit.Windows.dll
+C:\Users\Tabish\source\repos\Student Management System\Student Management System\bin\Debug\Syncfusion.Edit.Windows.xml
+C:\Users\Tabish\source\repos\Student Management System\Student Management System\obj\Debug\Student_Management_System.FeeModify.resources
+C:\Users\Tabish\source\repos\Student Management System\Student Management System\obj\Debug\Student_Management_System.ModifyOthersFee.resources
+C:\Users\Tabish\source\repos\Student Management System\Student Management System\obj\Debug\Student_Management_System.ModifyStudentFee.resources
+C:\Users\Tabish\source\repos\Student Management System\Student Management System\obj\Debug\Student_Management_System.StudentSetting.resources
+C:\Users\Tabish\source\repos\Student Management System\Student Management System\obj\Debug\Student_Management_System.ViewStudent.resources
+C:\Users\Tabish\source\repos\Student Management System\Student Management System\obj\Debug\Student_Management_System.FirstRun.resources
+C:\Users\Tabish\source\repos\Student Management System\Student Management System\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\Tabish\source\repos\Student Management System\Student Management System\bin\Debug\Syncfusion.Licensing.dll
+C:\Users\Tabish\source\repos\Student Management System\Student Management System\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\Tabish\source\repos\Student Management System\Student Management System\bin\Debug\Telerik.WinControls.dll
+C:\Users\Tabish\source\repos\Student Management System\Student Management System\bin\Debug\Telerik.WinControls.UI.dll
+C:\Users\Tabish\source\repos\Student Management System\Student Management System\bin\Debug\TelerikCommon.dll
+C:\Users\Tabish\source\repos\Student Management System\Student Management System\bin\Debug\Telerik.WinControls.xml
+C:\Users\Tabish\source\repos\Student Management System\Student Management System\bin\Debug\Telerik.WinControls.UI.xml
+C:\Users\Tabish\source\repos\Student Management System\Student Management System\obj\Debug\Student Management System.exe.licenses
+C:\Users\Tabish\source\repos\Student Management System\Student Management System\obj\Debug\Student_Management_System.Test.resources
+C:\Users\Tabish\source\repos\Student Management System\Student Management System\obj\Debug\Student_Management_System.TrailForm.resources
+C:\Users\Tabish\source\repos\Student Management System\Student Management System\obj\Debug\Student_Management_System.Activation.resources
+C:\Users\Tabish\source\repos\Student Management System\Student Management System\obj\Debug\Student_Management_System.Backup.resources
+C:\Users\Tabish\source\repos\Student Management System\Student Management System\bin\Debug\Microsoft.Office.Interop.Word.dll
+C:\Users\Tabish\source\repos\Student Management System\Student Management System\obj\Debug\Student_Management_System.PreviousStudent.resources
+C:\Users\Tabish\source\repos\Student Management System\Student Management System\obj\Debug\Student_Management_System.PreviousStudentList.resources
+C:\Users\Tabish\source\repos\Student Management System\Student Management System\obj\Debug\Student_Management_System.AnnualReport.resources
+C:\Users\Tabish\source\repos\Student Management System\Student Management System\obj\Debug\Student_Management_System.csprojAssemblyReference.cache
+E:\Source Code\Student Management System\Student Management System\bin\Debug\Student Management System.exe.config
+E:\Source Code\Student Management System\Student Management System\obj\Debug\Student Management System.exe
+E:\Source Code\Student Management System\Student Management System\obj\Debug\Student Management System.pdb
+E:\Source Code\Student Management System\Student Management System\obj\Debug\Student_Management_System.csprojResolveAssemblyReference.cache
+E:\Source Code\Student Management System\Student Management System\obj\Debug\Student_Management_System.Activation.resources
+E:\Source Code\Student Management System\Student Management System\obj\Debug\Student_Management_System.AddStudent.resources
+E:\Source Code\Student Management System\Student Management System\obj\Debug\Student_Management_System.AnnualReport.resources
+E:\Source Code\Student Management System\Student Management System\obj\Debug\Student_Management_System.Backup.resources
+E:\Source Code\Student Management System\Student Management System\obj\Debug\Student_Management_System.EditForm.resources
+E:\Source Code\Student Management System\Student Management System\obj\Debug\Student_Management_System.FeeDefaulters.resources
+E:\Source Code\Student Management System\Student Management System\obj\Debug\Student_Management_System.FeeModify.resources
+E:\Source Code\Student Management System\Student Management System\obj\Debug\Student_Management_System.FeeSetting.resources
+E:\Source Code\Student Management System\Student Management System\obj\Debug\Student_Management_System.FeeSubmission.resources
+E:\Source Code\Student Management System\Student Management System\obj\Debug\Student_Management_System.FeeVoucher.resources
+E:\Source Code\Student Management System\Student Management System\obj\Debug\Student_Management_System.FirstRun.resources
+E:\Source Code\Student Management System\Student Management System\obj\Debug\Student_Management_System.FormLogin.resources
+E:\Source Code\Student Management System\Student Management System\obj\Debug\Student_Management_System.FormMain.resources
+E:\Source Code\Student Management System\Student Management System\obj\Debug\Student_Management_System.Loading.resources
+E:\Source Code\Student Management System\Student Management System\obj\Debug\Student_Management_System.DeleteStudent.resources
+E:\Source Code\Student Management System\Student Management System\obj\Debug\Student_Management_System.ModifyOthersFee.resources
+E:\Source Code\Student Management System\Student Management System\obj\Debug\Student_Management_System.ModifyStudent.resources
+E:\Source Code\Student Management System\Student Management System\obj\Debug\Student_Management_System.ModifyStudentFee.resources
+E:\Source Code\Student Management System\Student Management System\obj\Debug\Student_Management_System.PreviousStudent.resources
+E:\Source Code\Student Management System\Student Management System\obj\Debug\Student_Management_System.PreviousStudentList.resources
+E:\Source Code\Student Management System\Student Management System\obj\Debug\Student_Management_System.Properties.Resources.resources
+E:\Source Code\Student Management System\Student Management System\obj\Debug\Student_Management_System.SearchStudent.resources
+E:\Source Code\Student Management System\Student Management System\obj\Debug\Student_Management_System.Splash.resources
+E:\Source Code\Student Management System\Student Management System\obj\Debug\Student_Management_System.StaffSubmission.resources
+E:\Source Code\Student Management System\Student Management System\obj\Debug\Student_Management_System.StudentSetting.resources
+E:\Source Code\Student Management System\Student Management System\obj\Debug\Student_Management_System.StudentSubmission.resources
+E:\Source Code\Student Management System\Student Management System\obj\Debug\Student_Management_System.Test.resources
+E:\Source Code\Student Management System\Student Management System\obj\Debug\Student_Management_System.TrailForm.resources
+E:\Source Code\Student Management System\Student Management System\obj\Debug\Student_Management_System.ViewStudent.resources
+E:\Source Code\Student Management System\Student Management System\obj\Debug\Student_Management_System.csproj.GenerateResource.Cache
+E:\Source Code\Student Management System\Student Management System\obj\Debug\Student Management System.exe.licenses

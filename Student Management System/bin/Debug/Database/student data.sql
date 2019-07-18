@@ -1,0 +1,50 @@
+﻿CREATE TABLE [StudentData](
+  [ID] INTEGER PRIMARY KEY AUTOINCREMENT UNIQUE, 
+  [StudentName] NVARCHAR NOT NULL, 
+  [RegNo] NVARCHAR NOT NULL, 
+  [FatherName] NVARCHAR NOT NULL, 
+  [MotherName] NVARCHAR NOT NULL, 
+  [DateOfBirth] NVARCHAR NOT NULL, 
+  [PlaceOfBirth] NVARCHAR NOT NULL, 
+  [NIC] NVARCHAR NOT NULL, 
+  [Gender] NVARCHAR NOT NULL, 
+  [Address] NVARCHAR NOT NULL, 
+  [Religion] NVARCHAR NOT NULL, 
+  [Contact] NVARCHAR NOT NULL, 
+  [Class] NVARCHAR NOT NULL, 
+  [Section] NVARCHAR NOT NULL, 
+  [AdmitDate] NVARCHAR NOT NULL,
+  [Session] NVARCHAR NOT NULL, 
+  [Fees] NVARCHAR NOT NULL, 
+  [Arrears] INT NOT NULL, 
+  [FeeSubmittedDate] NVARCHAR NOT NULL);
+  
+  CREATE TABLE [StudentFee](
+  [ID] INTEGER PRIMARY KEY AUTOINCREMENT UNIQUE, 
+  [TransportFee] INTEGER NOT NULL, 
+  [ExamFee] INTEGER NOT NULL, 
+  [OthersFee] INTEGER NOT NULL, 
+  [LateFee] INTEGER NOT NULL, 
+  [Arrears] INTEGER NOT NULL, 
+  [VoucherCharges] INTEGER NOT NULL,
+  [AmountSubmit] INTEGER NOT NULL,
+  [Submitted] BOOL NOT NULL,
+  [SubmittedDate] NVARCHAR NOT NULL);
+  
+  CREATE TABLE [StudentProfile](
+  [ID] INTEGER PRIMARY KEY AUTOINCREMENT UNIQUE, 
+  [Profile] BINARY NOT NULL);
+  
+  Create table Class(
+[ID] INTEGER PRIMARY KEY AUTOINCREMENT UNIQUE, 
+  [class] NVARCHAR NOT NULL);
+  
+  Create table Section(
+[ID] INTEGER PRIMARY KEY AUTOINCREMENT UNIQUE, 
+  [Section] NVARCHAR NOT NULL);
+
+  
+  
+
+  
+  
